@@ -1,0 +1,47 @@
+﻿{
+  "location": {
+    "name": "Beijing",
+    "region": "Beijing",
+    "country": "China",
+    "lat": 39.9289,
+    "lon": 116.3883,
+    "tz_id": "Asia/Shanghai",
+    "localtime_epoch": 1737230343,
+    "localtime": "2025-01-19 03:59"
+  },
+  "current": {
+    "last_updated_epoch": 1737229500,
+    "last_updated": "2025-01-19 03:45",
+    "temp_c": -3.9,
+    "temp_f": 25.0,
+    "is_day": 0,
+    "condition": {
+      "text": "\u042F\u0441\u043D\u043E",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+      "code": 1000
+    },
+    "wind_mph": 9.8,
+    "wind_kph": 15.8,
+    "wind_degree": 330,
+    "wind_dir": "NNW",
+    "pressure_mb": 1019.0,
+    "pressure_in": 30.09,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 49,
+    "cloud": 0,
+    "feelslike_c": -9.4,
+    "feelslike_f": 15.1,
+    "windchill_c": -1.8,
+    "windchill_f": 28.8,
+    "heatindex_c": 2.3,
+    "heatindex_f": 36.1,
+    "dewpoint_c": -14.6,
+    "dewpoint_f": 5.7,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 0.0,
+    "gust_mph": 18.7,
+    "gust_kph": 30.0
+  }
+}

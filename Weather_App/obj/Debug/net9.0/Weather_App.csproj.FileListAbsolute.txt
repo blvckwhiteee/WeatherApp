@@ -1,0 +1,14 @@
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\bin\Debug\net9.0\Weather_App.exe
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\bin\Debug\net9.0\Weather_App.deps.json
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\bin\Debug\net9.0\Weather_App.runtimeconfig.json
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\bin\Debug\net9.0\Weather_App.dll
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\bin\Debug\net9.0\Weather_App.pdb
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\Weather_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\Weather_App.AssemblyInfoInputs.cache
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\Weather_App.AssemblyInfo.cs
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\Weather_App.csproj.CoreCompileInputs.cache
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\Weather_App.dll
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\refint\Weather_App.dll
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\Weather_App.pdb
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\Weather_App.genruntimeconfig.cache
+C:\ExDesktop\Study\CS\DobrySharpist\Weather_App\Weather_App\obj\Debug\net9.0\ref\Weather_App.dll
