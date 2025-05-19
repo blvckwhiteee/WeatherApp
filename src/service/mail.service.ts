@@ -67,7 +67,7 @@ export class MailService implements OnModuleInit {
                   <p><strong>${humidityText}:</strong> ${weather.humidity}%</p>
                   <p><strong>Description:</strong> ${weather.description}</p>
                   <div style="text-align: center; margin: 30px 0;">
-                    <a href="http://localhost:3000/api/unsubscribe/${mail.token}"
+                    <a href="/api/unsubscribe/${mail.token}"
                        style="background-color: #2a9d8f; color: #ffffff; padding: 12px 24px; 
                        border-radius: 5px; text-decoration: none; display: inline-block; font-weight: bold;">
                       Unsubscribe from Weather Forecast Mailing
@@ -103,7 +103,7 @@ export class MailService implements OnModuleInit {
                     To complete your registration, please confirm your subscription by clicking the button below.
                   </p>
                   <div style="text-align: center; margin: 30px 0;">
-                    <a href="http://localhost:3000/api/confirm/${token}"
+                    <a href="/api/confirm/${token}"
                        style="background-color: #2a9d8f; color: #ffffff; padding: 12px 24px; 
                        border-radius: 5px; text-decoration: none; display: inline-block; font-weight: bold;">
                       Confirm Subscription
