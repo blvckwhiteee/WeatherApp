@@ -86,12 +86,16 @@
                     `/api/weather?city=${encodeURIComponent(city)}`,
                 );
                 const data = await res.json();
-
-                result.innerHTML = `
+                if (data.statusCode === 404) {
+                    const error = data.message;
+                    result.innerText = `Error: ${error}`;
+                } else {
+                    result.innerHTML = `
         <p><strong>Temperature:</strong> ${data.temperature}°C</p>
         <p><strong>Humidity:</strong> ${data.humidity}%</p>
         <p><strong>Description:</strong> ${data.description}</p>
-      `;
+    `;
+                }
             });
         </script>
     </body>
