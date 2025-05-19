@@ -23,8 +23,6 @@ COPY --from=builder /app/prisma ./prisma
 COPY --from=builder /app/public ./public
 COPY --from=builder /app/node_modules/.prisma ./node_modules/.prisma
 
-COPY .env ./
-
 COPY start.sh /app/start.sh
 RUN chmod +x /app/start.sh
 
